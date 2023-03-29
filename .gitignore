@@ -1,4 +1,8 @@
-.metals
+.metals/
+.bloop/
+.idea/
+null/
+project/
 # Created by https://www.gitignore.io/api/sbt,java,scala,intellij
 # Edit at https://www.gitignore.io/?templates=sbt,java,scala,intellij
 
